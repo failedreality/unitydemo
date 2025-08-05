@@ -1,0 +1,64 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+
+# User-specific settings
+UserSettings/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+*.swp
+*.swo
+*.tmp
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDE specific
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+
+# Crash/debug files
+sysinfo.txt
+*.stacktrace
+
+# Unity Cloud Build
+/UnityCloudBuild/
+
+# Build artifacts
+*.apk
+*.aab
+*.xcodeproj
+*.xcworkspace
+*.app
+*.ipa
+*.exe
+*.dll
+*.zip
+*.mp4
+
+# Other
+Builds/
+bin/
+obj/
+*.log
+*.bak
+*.backup
