@@ -1,0 +1,2093 @@
+fileFormatVersion: 2
+guid: 6eca7139597cf754b8250230b39c506e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3889388665297735172
+    second: free_pixel_art_card_pack_resized_0
+  - first:
+      213: -805545677000155505
+    second: free_pixel_art_card_pack_resized_1
+  - first:
+      213: -9002401320267306975
+    second: free_pixel_art_card_pack_resized_2
+  - first:
+      213: 3568942687596336607
+    second: free_pixel_art_card_pack_resized_3
+  - first:
+      213: 6596311839889314231
+    second: free_pixel_art_card_pack_resized_4
+  - first:
+      213: -6270777899906151620
+    second: free_pixel_art_card_pack_resized_5
+  - first:
+      213: -1934375093401386261
+    second: free_pixel_art_card_pack_resized_6
+  - first:
+      213: 2181850754518045185
+    second: free_pixel_art_card_pack_resized_7
+  - first:
+      213: -2084392476490130801
+    second: free_pixel_art_card_pack_resized_8
+  - first:
+      213: 5145925238735740531
+    second: free_pixel_art_card_pack_resized_9
+  - first:
+      213: 6970582169201027801
+    second: free_pixel_art_card_pack_resized_10
+  - first:
+      213: 540362999123316918
+    second: free_pixel_art_card_pack_resized_11
+  - first:
+      213: -1274628898232901050
+    second: free_pixel_art_card_pack_resized_12
+  - first:
+      213: 5533566393839985849
+    second: free_pixel_art_card_pack_resized_13
+  - first:
+      213: 6524402633000613815
+    second: free_pixel_art_card_pack_resized_14
+  - first:
+      213: -2411421754428777511
+    second: free_pixel_art_card_pack_resized_15
+  - first:
+      213: -2456709394724298130
+    second: free_pixel_art_card_pack_resized_16
+  - first:
+      213: 8504934693642867462
+    second: free_pixel_art_card_pack_resized_17
+  - first:
+      213: -1926648919179573829
+    second: free_pixel_art_card_pack_resized_18
+  - first:
+      213: -6227264758596813285
+    second: free_pixel_art_card_pack_resized_19
+  - first:
+      213: -294678005240827889
+    second: free_pixel_art_card_pack_resized_20
+  - first:
+      213: 1088571820232682754
+    second: free_pixel_art_card_pack_resized_21
+  - first:
+      213: 3019420774668212244
+    second: free_pixel_art_card_pack_resized_22
+  - first:
+      213: 6880267946422181128
+    second: free_pixel_art_card_pack_resized_23
+  - first:
+      213: 7994029561129527581
+    second: free_pixel_art_card_pack_resized_24
+  - first:
+      213: 7000520131886586932
+    second: free_pixel_art_card_pack_resized_25
+  - first:
+      213: -9041054036575605033
+    second: free_pixel_art_card_pack_resized_26
+  - first:
+      213: -3582897471256576171
+    second: free_pixel_art_card_pack_resized_27
+  - first:
+      213: -5635548134635218141
+    second: free_pixel_art_card_pack_resized_28
+  - first:
+      213: -103573485225108284
+    second: free_pixel_art_card_pack_resized_29
+  - first:
+      213: 4361973902484248706
+    second: free_pixel_art_card_pack_resized_30
+  - first:
+      213: 3182736415750454367
+    second: free_pixel_art_card_pack_resized_31
+  - first:
+      213: 1707008117278138881
+    second: free_pixel_art_card_pack_resized_32
+  - first:
+      213: -2041520835712184928
+    second: free_pixel_art_card_pack_resized_33
+  - first:
+      213: 1774766852963542234
+    second: free_pixel_art_card_pack_resized_34
+  - first:
+      213: 5941924529578661868
+    second: free_pixel_art_card_pack_resized_35
+  - first:
+      213: 1772826447346310888
+    second: free_pixel_art_card_pack_resized_36
+  - first:
+      213: 6350962681389747976
+    second: free_pixel_art_card_pack_resized_37
+  - first:
+      213: 7069200334831452820
+    second: free_pixel_art_card_pack_resized_38
+  - first:
+      213: -6207813516660950080
+    second: free_pixel_art_card_pack_resized_39
+  - first:
+      213: 7516621826172876954
+    second: free_pixel_art_card_pack_resized_40
+  - first:
+      213: -870146768385330674
+    second: free_pixel_art_card_pack_resized_41
+  - first:
+      213: 4985536284228112958
+    second: free_pixel_art_card_pack_resized_42
+  - first:
+      213: -1449876492155492691
+    second: free_pixel_art_card_pack_resized_43
+  - first:
+      213: 8246096645152026822
+    second: free_pixel_art_card_pack_resized_44
+  - first:
+      213: -8471663062723804807
+    second: free_pixel_art_card_pack_resized_45
+  - first:
+      213: -6356361200569033368
+    second: free_pixel_art_card_pack_resized_46
+  - first:
+      213: 7441768948173222046
+    second: free_pixel_art_card_pack_resized_47
+  - first:
+      213: 6490360455574407294
+    second: free_pixel_art_card_pack_resized_48
+  - first:
+      213: 3459377571335915645
+    second: free_pixel_art_card_pack_resized_49
+  - first:
+      213: 6414471534814029684
+    second: free_pixel_art_card_pack_resized_50
+  - first:
+      213: -4773751136964348553
+    second: free_pixel_art_card_pack_resized_51
+  - first:
+      213: 5258944199085906835
+    second: free_pixel_art_card_pack_resized_52
+  - first:
+      213: -7683706477342924721
+    second: free_pixel_art_card_pack_resized_53
+  - first:
+      213: -6362509706769886392
+    second: free_pixel_art_card_pack_resized_54
+  - first:
+      213: -6747748873199196119
+    second: free_pixel_art_card_pack_resized_55
+  - first:
+      213: 6630895543806075466
+    second: free_pixel_art_card_pack_resized_56
+  - first:
+      213: 8764523870906136250
+    second: free_pixel_art_card_pack_resized_57
+  - first:
+      213: 392954960944096058
+    second: free_pixel_art_card_pack_resized_58
+  - first:
+      213: 464937704708559251
+    second: free_pixel_art_card_pack_resized_59
+  - first:
+      213: -8017738698547390078
+    second: free_pixel_art_card_pack_resized_60
+  - first:
+      213: 4858935081787793332
+    second: free_pixel_art_card_pack_resized_61
+  - first:
+      213: 490028542588366839
+    second: free_pixel_art_card_pack_resized_62
+  - first:
+      213: -2766732670898822161
+    second: free_pixel_art_card_pack_resized_63
+  - first:
+      213: -6489160920811701933
+    second: free_pixel_art_card_pack_resized_64
+  - first:
+      213: 5190138498232969072
+    second: free_pixel_art_card_pack_resized_65
+  - first:
+      213: 89026329371435250
+    second: free_pixel_art_card_pack_resized_66
+  - first:
+      213: -828980123392696211
+    second: free_pixel_art_card_pack_resized_67
+  - first:
+      213: 2089445784892621596
+    second: free_pixel_art_card_pack_resized_68
+  - first:
+      213: 7328834370859767971
+    second: free_pixel_art_card_pack_resized_69
+  - first:
+      213: -2068404580402645576
+    second: free_pixel_art_card_pack_resized_70
+  - first:
+      213: 8602762192751019640
+    second: free_pixel_art_card_pack_resized_71
+  - first:
+      213: -1982547629463638373
+    second: free_pixel_art_card_pack_resized_72
+  - first:
+      213: -331060487359127702
+    second: free_pixel_art_card_pack_resized_73
+  - first:
+      213: 5334402052464779693
+    second: free_pixel_art_card_pack_resized_74
+  - first:
+      213: 5698523433200698959
+    second: free_pixel_art_card_pack_resized_75
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 5399
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf17f73ad9d160ac0800000000000000
+      internalID: -3889388665297735172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 5399
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8edd08897022d4f0800000000000000
+      internalID: -805545677000155505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 5399
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128a5fb22bb011380800000000000000
+      internalID: -9002401320267306975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 5399
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd558ed177e678130800000000000000
+      internalID: 3568942687596336607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_4
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 5399
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b15e4c6baeca8b50800000000000000
+      internalID: 6596311839889314231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_5
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 5399
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b49ba59b8b9f8a0800000000000000
+      internalID: -6270777899906151620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_6
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 5399
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2827fe918b725e0800000000000000
+      internalID: -1934375093401386261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_7
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 5399
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10257f783bd774e10800000000000000
+      internalID: 2181850754518045185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_8
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 5399
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a1f421610c213e0800000000000000
+      internalID: -2084392476490130801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_9
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 5399
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e9f878dbff96740800000000000000
+      internalID: 5145925238735740531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4719
+        width: 261
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da26e81d8b7cb060800000000000000
+      internalID: 6970582169201027801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_11
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 4719
+        width: 262
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b09284e841cf7700800000000000000
+      internalID: 540362999123316918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_12
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 4719
+        width: 262
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642616435cb9f4ee0800000000000000
+      internalID: -1274628898232901050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_13
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 4719
+        width: 262
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b42fdd215d2bcc40800000000000000
+      internalID: 5533566393839985849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_14
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 4719
+        width: 262
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7ff9f70a55b8a50800000000000000
+      internalID: 6524402633000613815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_15
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 4719
+        width: 262
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db9f9bc0b8e88ed0800000000000000
+      internalID: -2411421754428777511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_16
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 4719
+        width: 262
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62e71b52d308edd0800000000000000
+      internalID: -2456709394724298130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_17
+      rect:
+        serializedVersion: 2
+        x: 2239
+        y: 4719
+        width: 262
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6039a74fa09970670800000000000000
+      internalID: 8504934693642867462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_18
+      rect:
+        serializedVersion: 2
+        x: 2559
+        y: 4719
+        width: 262
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5496d040b2345e0800000000000000
+      internalID: -1926648919179573829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_19
+      rect:
+        serializedVersion: 2
+        x: 2879
+        y: 4719
+        width: 262
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e378d02bf4499a0800000000000000
+      internalID: -6227264758596813285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4329
+        width: 261
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00ff7e5ae719ebf0800000000000000
+      internalID: -294678005240827889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3939
+        width: 261
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d28719d426b1f00800000000000000
+      internalID: 1088571820232682754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_22
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 3939
+        width: 262
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418988d623327e920800000000000000
+      internalID: 3019420774668212244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_23
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 3939
+        width: 262
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d100a7e3f9b7f50800000000000000
+      internalID: 6880267946422181128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_24
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 3939
+        width: 262
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19e81b188f70fe60800000000000000
+      internalID: 7994029561129527581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_25
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 3939
+        width: 262
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c121838f7d62160800000000000000
+      internalID: 7000520131886586932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3549
+        width: 261
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7deacca5149b78280800000000000000
+      internalID: -9041054036575605033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_27
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 3549
+        width: 262
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f3b1f9bbdf64ec0800000000000000
+      internalID: -3582897471256576171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_28
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 3549
+        width: 262
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32bd37874d28ac1b0800000000000000
+      internalID: -5635548134635218141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_29
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 3549
+        width: 262
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc1205c678009ef0800000000000000
+      internalID: -103573485225108284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_30
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 3549
+        width: 262
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28819115728d88c30800000000000000
+      internalID: 4361973902484248706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3159
+        width: 261
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c718248e95b2c20800000000000000
+      internalID: 3182736415750454367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_32
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 3159
+        width: 262
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102621ba6d280b710800000000000000
+      internalID: 1707008117278138881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_33
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 3159
+        width: 262
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad01d9cd9f0ba3e0800000000000000
+      internalID: -2041520835712184928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_34
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 3159
+        width: 262
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4a706bc0d31a810800000000000000
+      internalID: 1774766852963542234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_35
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 3159
+        width: 262
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce757b3c0e4f57250800000000000000
+      internalID: 5941924529578661868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2769
+        width: 261
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee9e72d2485a9810800000000000000
+      internalID: 1772826447346310888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_37
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 2769
+        width: 262
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f8ffde8e6232850800000000000000
+      internalID: 6350962681389747976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_38
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 2769
+        width: 262
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49283b31048da1260800000000000000
+      internalID: 7069200334831452820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_39
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 2769
+        width: 262
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb3e8b3f7a69d9a0800000000000000
+      internalID: -6207813516660950080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_40
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 2769
+        width: 262
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a987bf3e9b7605860800000000000000
+      internalID: 7516621826172876954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2379
+        width: 261
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0230f7df1e9ce3f0800000000000000
+      internalID: -870146768385330674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_42
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 2379
+        width: 262
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32dc3406de203540800000000000000
+      internalID: 4985536284228112958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_43
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 2379
+        width: 262
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6e1ec130101ebe0800000000000000
+      internalID: -1449876492155492691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_44
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 2379
+        width: 262
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0b3d58535007270800000000000000
+      internalID: 8246096645152026822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_45
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 2379
+        width: 262
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971cc89445b9e6a80800000000000000
+      internalID: -8471663062723804807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1989
+        width: 261
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86dd1006a2ba9c7a0800000000000000
+      internalID: -6356361200569033368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_47
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1989
+        width: 262
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90b5602e69764760800000000000000
+      internalID: 7441768948173222046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_48
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1989
+        width: 262
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7841ca6274621a50800000000000000
+      internalID: 6490360455574407294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_49
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1989
+        width: 262
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d784e63929d220030800000000000000
+      internalID: 3459377571335915645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_50
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1989
+        width: 262
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477e17620e7c40950800000000000000
+      internalID: 6414471534814029684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1599
+        width: 261
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7757f1322aa30cdb0800000000000000
+      internalID: -4773751136964348553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_52
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1599
+        width: 262
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39bdd10d2e58bf840800000000000000
+      internalID: 5258944199085906835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_53
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1599
+        width: 262
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f406b9b3badfd5590800000000000000
+      internalID: -7683706477342924721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_54
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1599
+        width: 262
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8439108b123d3b7a0800000000000000
+      internalID: -6362509706769886392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_55
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1599
+        width: 262
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9286b63a62e2b52a0800000000000000
+      internalID: -6747748873199196119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1209
+        width: 261
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4228477d5ca50c50800000000000000
+      internalID: 6630895543806075466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_57
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1209
+        width: 262
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6bace2608d1a970800000000000000
+      internalID: 8764523870906136250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_58
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1209
+        width: 262
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33eccb747e047500800000000000000
+      internalID: 392954960944096058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_59
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1209
+        width: 262
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391d6db016ac37600800000000000000
+      internalID: 464937704708559251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_60
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1209
+        width: 262
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2891e2b22254bb090800000000000000
+      internalID: -8017738698547390078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 819
+        width: 261
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf15a096b76e6340800000000000000
+      internalID: 4858935081787793332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_62
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 819
+        width: 262
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff28cafc5eecc600800000000000000
+      internalID: 490028542588366839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_63
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 819
+        width: 262
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3ab9a6b479a99d0800000000000000
+      internalID: -2766732670898822161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_64
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 819
+        width: 262
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359fba8068ed1f5a0800000000000000
+      internalID: -6489160920811701933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_65
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 819
+        width: 262
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07761423773170840800000000000000
+      internalID: 5190138498232969072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 429
+        width: 261
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f067d199f84c3100800000000000000
+      internalID: 89026329371435250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_67
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 429
+        width: 262
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60a15b48fede74f0800000000000000
+      internalID: -828980123392696211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_68
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 429
+        width: 262
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1346f9fed33ffc10800000000000000
+      internalID: 2089445784892621596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_69
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 429
+        width: 262
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a815ccc70045b560800000000000000
+      internalID: 7328834370859767971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_70
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 429
+        width: 262
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b53f453efc8b43e0800000000000000
+      internalID: -2068404580402645576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 39
+        width: 261
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876c51a82a6236770800000000000000
+      internalID: 8602762192751019640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_72
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 39
+        width: 262
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ee68b5f639c74e0800000000000000
+      internalID: -1982547629463638373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_73
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 39
+        width: 262
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f9ac3ad36d76bf0800000000000000
+      internalID: -331060487359127702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_74
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 39
+        width: 262
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da12742676a970a40800000000000000
+      internalID: 5334402052464779693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free_pixel_art_card_pack_resized_75
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 39
+        width: 262
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46ca24ded8351f40800000000000000
+      internalID: 5698523433200698959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      free_pixel_art_card_pack_resized_0: -3889388665297735172
+      free_pixel_art_card_pack_resized_1: -805545677000155505
+      free_pixel_art_card_pack_resized_10: 6970582169201027801
+      free_pixel_art_card_pack_resized_11: 540362999123316918
+      free_pixel_art_card_pack_resized_12: -1274628898232901050
+      free_pixel_art_card_pack_resized_13: 5533566393839985849
+      free_pixel_art_card_pack_resized_14: 6524402633000613815
+      free_pixel_art_card_pack_resized_15: -2411421754428777511
+      free_pixel_art_card_pack_resized_16: -2456709394724298130
+      free_pixel_art_card_pack_resized_17: 8504934693642867462
+      free_pixel_art_card_pack_resized_18: -1926648919179573829
+      free_pixel_art_card_pack_resized_19: -6227264758596813285
+      free_pixel_art_card_pack_resized_2: -9002401320267306975
+      free_pixel_art_card_pack_resized_20: -294678005240827889
+      free_pixel_art_card_pack_resized_21: 1088571820232682754
+      free_pixel_art_card_pack_resized_22: 3019420774668212244
+      free_pixel_art_card_pack_resized_23: 6880267946422181128
+      free_pixel_art_card_pack_resized_24: 7994029561129527581
+      free_pixel_art_card_pack_resized_25: 7000520131886586932
+      free_pixel_art_card_pack_resized_26: -9041054036575605033
+      free_pixel_art_card_pack_resized_27: -3582897471256576171
+      free_pixel_art_card_pack_resized_28: -5635548134635218141
+      free_pixel_art_card_pack_resized_29: -103573485225108284
+      free_pixel_art_card_pack_resized_3: 3568942687596336607
+      free_pixel_art_card_pack_resized_30: 4361973902484248706
+      free_pixel_art_card_pack_resized_31: 3182736415750454367
+      free_pixel_art_card_pack_resized_32: 1707008117278138881
+      free_pixel_art_card_pack_resized_33: -2041520835712184928
+      free_pixel_art_card_pack_resized_34: 1774766852963542234
+      free_pixel_art_card_pack_resized_35: 5941924529578661868
+      free_pixel_art_card_pack_resized_36: 1772826447346310888
+      free_pixel_art_card_pack_resized_37: 6350962681389747976
+      free_pixel_art_card_pack_resized_38: 7069200334831452820
+      free_pixel_art_card_pack_resized_39: -6207813516660950080
+      free_pixel_art_card_pack_resized_4: 6596311839889314231
+      free_pixel_art_card_pack_resized_40: 7516621826172876954
+      free_pixel_art_card_pack_resized_41: -870146768385330674
+      free_pixel_art_card_pack_resized_42: 4985536284228112958
+      free_pixel_art_card_pack_resized_43: -1449876492155492691
+      free_pixel_art_card_pack_resized_44: 8246096645152026822
+      free_pixel_art_card_pack_resized_45: -8471663062723804807
+      free_pixel_art_card_pack_resized_46: -6356361200569033368
+      free_pixel_art_card_pack_resized_47: 7441768948173222046
+      free_pixel_art_card_pack_resized_48: 6490360455574407294
+      free_pixel_art_card_pack_resized_49: 3459377571335915645
+      free_pixel_art_card_pack_resized_5: -6270777899906151620
+      free_pixel_art_card_pack_resized_50: 6414471534814029684
+      free_pixel_art_card_pack_resized_51: -4773751136964348553
+      free_pixel_art_card_pack_resized_52: 5258944199085906835
+      free_pixel_art_card_pack_resized_53: -7683706477342924721
+      free_pixel_art_card_pack_resized_54: -6362509706769886392
+      free_pixel_art_card_pack_resized_55: -6747748873199196119
+      free_pixel_art_card_pack_resized_56: 6630895543806075466
+      free_pixel_art_card_pack_resized_57: 8764523870906136250
+      free_pixel_art_card_pack_resized_58: 392954960944096058
+      free_pixel_art_card_pack_resized_59: 464937704708559251
+      free_pixel_art_card_pack_resized_6: -1934375093401386261
+      free_pixel_art_card_pack_resized_60: -8017738698547390078
+      free_pixel_art_card_pack_resized_61: 4858935081787793332
+      free_pixel_art_card_pack_resized_62: 490028542588366839
+      free_pixel_art_card_pack_resized_63: -2766732670898822161
+      free_pixel_art_card_pack_resized_64: -6489160920811701933
+      free_pixel_art_card_pack_resized_65: 5190138498232969072
+      free_pixel_art_card_pack_resized_66: 89026329371435250
+      free_pixel_art_card_pack_resized_67: -828980123392696211
+      free_pixel_art_card_pack_resized_68: 2089445784892621596
+      free_pixel_art_card_pack_resized_69: 7328834370859767971
+      free_pixel_art_card_pack_resized_7: 2181850754518045185
+      free_pixel_art_card_pack_resized_70: -2068404580402645576
+      free_pixel_art_card_pack_resized_71: 8602762192751019640
+      free_pixel_art_card_pack_resized_72: -1982547629463638373
+      free_pixel_art_card_pack_resized_73: -331060487359127702
+      free_pixel_art_card_pack_resized_74: 5334402052464779693
+      free_pixel_art_card_pack_resized_75: 5698523433200698959
+      free_pixel_art_card_pack_resized_8: -2084392476490130801
+      free_pixel_art_card_pack_resized_9: 5145925238735740531
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
