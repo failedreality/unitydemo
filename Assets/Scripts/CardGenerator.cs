@@ -24,13 +24,13 @@ public class CardGenerator : MonoBehaviour  //*use this when in Unity environmen
             */
             int energyCost = attack * 2 + defense * 2 * hitPoints; //This will need some readjustment.
 
-            //Cards1 card = new Cards1
-            //{
-            //    attack = attack,
-            //    defense = defense,
-            //    hitPoints = hitPoints,
-            //    energyCost = energyCost
-            //};
+            Cards card = new Cards
+            {
+                attack = attack,
+                defense = defense,
+                hitPoints = hitPoints,
+                energyCost = energyCost
+            };
 
             generator.generatedCards.Add(card); // Use the instance to access generatedCards
             Debug.Log(generatedCards.Count); // Log the count of generated cards
