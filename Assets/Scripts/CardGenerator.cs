@@ -1,8 +1,12 @@
+using System.Collections.Generic;
+using System.Globalization;
+using Unity.Burst.Intrinsics;
+using System;
 using UnityEngine;
 
 public class CardGenerator : MonoBehaviour  //*use this when in Unity environment*
 {
-    public List<Cards> generatedCards = new List<Cards>();
+    public List<Cards> generatedCards = new();
 
     void Start()  //void Start() // Use Start() when in Unity environment
     {
@@ -20,18 +24,18 @@ public class CardGenerator : MonoBehaviour  //*use this when in Unity environmen
             */
             int energyCost = attack * 2 + defense * 2 * hitPoints; //This will need some readjustment.
 
-            Cards card = new Cards
-            {
-                attack = attack,
-                defense = defense,
-                hitPoints = hitPoints,
-                energyCost = energyCost
-            };
+            //Cards1 card = new Cards1
+            //{
+            //    attack = attack,
+            //    defense = defense,
+            //    hitPoints = hitPoints,
+            //    energyCost = energyCost
+            //};
 
             generator.generatedCards.Add(card); // Use the instance to access generatedCards
             Debug.Log(generatedCards.Count); // Log the count of generated cards
 
-            Console.WriteLine($"Card {i}: {card}");
+            //Console.WriteLine($"Card {i}: {card}");
         }
     }
 }

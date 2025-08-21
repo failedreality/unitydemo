@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\repos\\unitydemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DBAF4138-CE9F-443C-554F-89A4220F16BF}|Assembly-CSharp.csproj|c:\\repos\\unitydemo\\assets\\scripts\\newmonobehaviourscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBAF4138-CE9F-443C-554F-89A4220F16BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\newmonobehaviourscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DBAF4138-CE9F-443C-554F-89A4220F16BF}|Assembly-CSharp.csproj|c:\\repos\\unitydemo\\assets\\scripts\\cards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBAF4138-CE9F-443C-554F-89A4220F16BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBAF4138-CE9F-443C-554F-89A4220F16BF}|Assembly-CSharp.csproj|c:\\repos\\unitydemo\\assets\\scripts\\cardgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBAF4138-CE9F-443C-554F-89A4220F16BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cardgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "NewMonoBehaviourScript.cs",
-              "DocumentMoniker": "C:\\repos\\unitydemo\\Assets\\Scripts\\NewMonoBehaviourScript.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\NewMonoBehaviourScript.cs",
-              "ToolTip": "C:\\repos\\unitydemo\\Assets\\Scripts\\NewMonoBehaviourScript.cs",
-              "RelativeToolTip": "Assets\\Scripts\\NewMonoBehaviourScript.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Title": "Cards.cs",
+              "DocumentMoniker": "C:\\repos\\unitydemo\\Assets\\Scripts\\Cards.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Cards.cs",
+              "ToolTip": "C:\\repos\\unitydemo\\Assets\\Scripts\\Cards.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Cards.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T18:45:28.207Z",
+              "WhenOpened": "2025-08-21T19:37:31.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CardGenerator.cs",
+              "DocumentMoniker": "C:\\repos\\unitydemo\\Assets\\Scripts\\CardGenerator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CardGenerator.cs",
+              "ToolTip": "C:\\repos\\unitydemo\\Assets\\Scripts\\CardGenerator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CardGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T18:47:43.654Z",
               "EditorCaption": ""
             }
           ]
