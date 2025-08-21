@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\repos\\unitydemo\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBAF4138-CE9F-443C-554F-89A4220F16BF}|Assembly-CSharp.csproj|c:\\repos\\unitydemo\\assets\\scripts\\cardgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBAF4138-CE9F-443C-554F-89A4220F16BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cardgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CardGenerator.cs",
+              "DocumentMoniker": "C:\\repos\\unitydemo\\Assets\\Scripts\\CardGenerator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CardGenerator.cs",
+              "ToolTip": "C:\\repos\\unitydemo\\Assets\\Scripts\\CardGenerator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CardGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T19:42:41.433Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
