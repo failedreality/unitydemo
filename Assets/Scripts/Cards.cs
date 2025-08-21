@@ -1,4 +1,7 @@
-public class Cards
+using UnityEngine;
+using System;
+
+public class Cards : MonoBehaviour
 {
     public int attack;
     public int defense;
